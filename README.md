@@ -11,7 +11,8 @@ This repo is used to track issues and provide a central home for RasPlex at gith
 See https://github.com/RasPlex/RasPlex/wiki/How-to-report-a-bug on how to report a bug.
 
 
-#Alternative Nextcloud# https://www.jurisic.org/index.php?post/2017/02/11/How-to-up-Nextcloud-11-server-on-Debian-8-Jessie-in-10-min
+#Alternative Use Nextcloud
+https://www.jurisic.org/index.php?post/2017/02/11/How-to-up-Nextcloud-11-server-on-Debian-8-Jessie-in-10-min
 
 Runs on RaspberryPi 3
 
